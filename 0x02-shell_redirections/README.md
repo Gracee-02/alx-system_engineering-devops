@@ -7,3 +7,4 @@
 7. Write a script that displays the third line of the file
 8. Write a shell script that creates a file
 9. Write a script that writes into the file
+10. Write a script that duplicates the last line of the file
