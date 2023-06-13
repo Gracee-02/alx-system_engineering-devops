@@ -15,3 +15,4 @@
 16. Display the number of lines that contain the pattern “bin” in the file
 17. Display lines containing the pattern “root” and 3 lines after them in the file
 18. Display all the lines in the file
+19. Display all lines of the file
