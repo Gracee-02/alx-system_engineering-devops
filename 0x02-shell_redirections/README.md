@@ -4,3 +4,4 @@
 4. Display the content of each of them
 5. Display the last 10 lines
 6. Display the first 10 lines
+7. Write a script that displays the third line of the file
