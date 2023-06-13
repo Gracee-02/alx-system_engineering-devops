@@ -16,3 +16,4 @@
 17. Display lines containing the pattern “root” and 3 lines after them in the file
 18. Display all the lines in the file
 19. Display all lines of the file
+20. Replace all characters A and c from input to Z and e respectively.
