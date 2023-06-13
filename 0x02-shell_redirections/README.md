@@ -8,3 +8,4 @@
 8. Write a shell script that creates a file
 9. Write a script that writes into the file
 10. Write a script that duplicates the last line of the file
+11. Write a script that deletes all the regular files 
