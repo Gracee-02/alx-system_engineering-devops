@@ -14,3 +14,4 @@
 14. Create a script that takes a list of words as input and prints only words that appear exactly once.
 16. Display the number of lines that contain the pattern “bin” in the file
 17. Display lines containing the pattern “root” and 3 lines after them in the file
+18. Display all the lines in the file
