@@ -22,3 +22,4 @@
 23. Write a script that displays all users and their home directories, sorted by users.
 24. A gif is worth ten thousand words
 25. The biggest fan
+26. Acrostic
